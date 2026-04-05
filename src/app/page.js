@@ -49,6 +49,7 @@ export default function HomePage() {
         showBadges
         singleCta
         image="/plumbing_bg.jpg"
+        image="/plumbing_bg.jpg"
       />
 
       {/* Trust Badges */}
